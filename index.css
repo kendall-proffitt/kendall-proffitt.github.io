@@ -18,7 +18,7 @@ hr {
 }
 a {
     color: inherit;
-    transition: all .1s;
+    transition: all .3s;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -27,7 +27,7 @@ a:hover {
     text-decoration: underline;
     }
 a:active {
-    color: rgb(133, 188, 222);
+    color: #d93c36;
     }
 #title {
     display: flex;
