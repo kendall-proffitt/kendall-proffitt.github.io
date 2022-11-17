@@ -100,7 +100,7 @@ footer {
     display: block;
     transition: all 0.1s;
 }
-#icon:hover {
+.icon:hover {
     box-shadow: 0 0 0 2px black, inset 0 0 0 2px black;
 }
 #credit {
